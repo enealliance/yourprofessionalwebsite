@@ -4,7 +4,7 @@
   right: 20px;
 }
 
-.myiframe {
+.myiframe, .mywhatsappiframe {
   margin-bottom: -75px;
   overflow: hidden;
 }
